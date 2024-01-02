@@ -31,6 +31,3 @@ Make sure to update the `<frontend-repo-url>` and `<backend-repo-url>` with the 
 ## Usage
 
 Once the frontend and backend servers are running, you can access the book store app by opening your browser and navigating to `http://localhost:3000`.
-# Node-js-practice
-# Node-js-practice
-# Node-js-practice
